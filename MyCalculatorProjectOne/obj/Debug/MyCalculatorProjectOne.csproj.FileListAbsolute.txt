@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\bin\Debug\MyCalculatorProjectOne.exe.config
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\bin\Debug\MyCalculatorProjectOne.exe
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\bin\Debug\MyCalculatorProjectOne.pdb
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\obj\Debug\MyCalculatorProjectOne.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\obj\Debug\MyCalculatorProjectOne.calculator.resources
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\obj\Debug\MyCalculatorProjectOne.Properties.Resources.resources
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\obj\Debug\MyCalculatorProjectOne.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\obj\Debug\MyCalculatorProjectOne.exe
+C:\Users\User\Desktop\MyCalculatorProjectOne\MyCalculatorProjectOne\obj\Debug\MyCalculatorProjectOne.pdb
